@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link the state page you relied on."
+title: "US Staffing Payroll Compliance Dataset"
+abstract: "State-by-state reference data for US staffing and employer-of-record payroll: unemployment insurance (SUTA) wage bases and rates, FUTA credit reductions, minimum wage, pay frequency, final pay deadlines, and workers' compensation basics. Every row cites an official government source and a last-checked date."
+type: dataset
+authors:
+  - name: "Catalyst Works"
+    website: "https://getcatalystworks.com/"
+version: "0.1.0-rc"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://getcatalystworks.com/"
+keywords:
+  - payroll compliance
+  - staffing
+  - employer of record
+  - SUTA
+  - unemployment insurance
+  - final pay
+  - pay frequency
+  - minimum wage
+  - workers compensation
